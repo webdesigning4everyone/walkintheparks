@@ -1,0 +1,99 @@
+#homepage{
+    background-color: rgba(214, 149, 99, 0.779);
+}
+nav{
+ display: inline-block;
+   width: 80%
+}
+.gallup{
+   width: 10%;
+  align-items: self-end;
+}
+.p1{
+   font-size: 1.5rem;
+}
+#main_content{
+   text-align: center;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-style: initial;
+   color: rgba(157, 11, 3, 0.779) ;
+}
+.content{
+   background-color: rgb(244, 157, 71);
+}
+
+header{
+    background-color: rgba(214, 149, 99, 0.779);
+}
+.mainpage{
+   font-size: 1.2rem;
+   background-color: rgba(226, 140, 74, 0.779);
+}
+
+
+ul{
+   list-style-type: none;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+li{
+ background-color: rgba(231, 105, 105, 0.545);
+ font-size: 1.5rem;
+}
+
+
+
+
+ #nwalks{
+    background-color: rgba(214, 149, 99, 0.779);
+}
+
+ 
+ #font{
+    color: rgb(154, 9, 65);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 3rem;
+   font-style: italic;
+ }
+
+ .container{
+   background-color: rgb(177, 140, 211);
+  border-style: solid;
+   border-width: 7px;
+   border-color: blueviolet;
+   display: grid;
+   grid-template-columns: 40% 40%;
+   justify-content: center;   
+}
+
+.item{
+width:80%;
+}
+footer{
+   font-size: 1.2rem;
+   background-color: rgb(163, 143, 181);
+}
+
+ .park{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: center;
+   background-color: rgb(198, 91, 142);
+ }
+
+.flexitem{
+   width: 20%
+}
+.heading{
+   text-align: center;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-style: italic;
+   color: rgb(148, 5, 74);
+}
+.footer1{
+   background-color:rgba(155, 9, 80, 0.433);
+} ;
